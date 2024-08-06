@@ -1,4 +1,4 @@
-# Nuxt3 Starter Kit
+# Nuxt3-i18n-vuetify-sass-firebase-gsap-starter
 
 Welcome to the **Nuxt3 Starter Kit**! This starter template is designed to kickstart your web development with a powerful combination of modern tools and libraries. Whether you're building a new project or exploring the capabilities of Nuxt3, this starter kit provides you with a solid foundation and a range of pre-configured features.
 
