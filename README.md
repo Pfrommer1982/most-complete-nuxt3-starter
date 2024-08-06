@@ -49,17 +49,13 @@ To get started with this starter kit, follow these simple steps:
 Configuration
 This starter kit is already configured with the following:
 
-i18n: For internationalization, check the configuration in nuxt.config.ts and the locale files in the locales directory.
-Vuetify: Customize your Vuetify theme in plugins/vuetify.js.
-Sass: Add or modify your styles in the assets/scss directory.
-Firebase: Configure your Firebase settings in plugins/firebase.js.
-GSAP: Utilize GSAP for animations directly in your components.
-Additional Resources
-Nuxt3 Documentation
-Vuetify Documentation
-Sass Documentation
-Firebase Documentation (store your api secrets in an .env file)
-GSAP Documentation
+- **i18n**: For internationalization, check the configuration in nuxt.config.ts and the locale files in the locales directory.
+- **Vuetify**: Customize your Vuetify theme in plugins/vuetify.js.
+- **Sass**: Add or modify your styles in the assets/scss directory.
+- **Firebase**: Configure your Firebase settings in plugins/firebase.js. (store your api secrets in an .env file)
+- **GSAP**: Utilize GSAP for animations directly in your components.
+
+
 
 
 Contributing
