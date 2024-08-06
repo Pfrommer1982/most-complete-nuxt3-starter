@@ -55,6 +55,8 @@ export default defineNuxtConfig({
 
   css: ['@/assets/main.scss'],
   app: {
+    baseURL: '/most-complete-nuxt3-starter/',
+    buildAssetsDir: '/most-complete-nuxt3-starter/_nuxt/',
     head: {
       meta: [
         { name: 'viewport', content: 'width=device-width, initial-scale=1.0' }
