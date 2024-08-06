@@ -27,26 +27,24 @@ To get started with this starter kit, follow these simple steps:
    ```bash
    git clone https://github.com/Pfrommer1982/most-complete-nuxt3-starter.git
    
-Navigate to the Project Directory
+2. ##Navigate to the Project Directory
+
+   ```bash
+   cd most-complete-nuxt3-starter
 
 
+3. Install the required dependencies using npm:
 
-bash
-cd most-complete-nuxt3-starter
-
-
-Install the required dependencies using npm:
-
-bash
-npm install
+   ```bash
+   npm install 
 
 
-Start the development server to view your project locally:
+4. Start the development server to view your project locally:
 
-bash
-npm run dev
+   ```bash
+   npm run dev
 
-Open your browser and go to http://localhost:3000 to see your Nuxt3 app in action.
+5. Open your browser and go to http://localhost:3000 to see your Nuxt3 app in action.
 
 Configuration
 This starter kit is already configured with the following:
@@ -60,7 +58,7 @@ Additional Resources
 Nuxt3 Documentation
 Vuetify Documentation
 Sass Documentation
-Firebase Documentation
+Firebase Documentation (store your api secrets in an .env file)
 GSAP Documentation
 
 
