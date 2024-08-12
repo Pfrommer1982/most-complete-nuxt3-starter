@@ -27,7 +27,7 @@ To get started with this starter kit, follow these simple steps:
    ```bash
    git clone https://github.com/Pfrommer1982/most-complete-nuxt3-starter.git
    
-2. ##Navigate to the Project Directory
+2. Navigate to the Project Directory
 
    ```bash
    cd most-complete-nuxt3-starter
